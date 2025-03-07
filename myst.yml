@@ -2,14 +2,14 @@
 version: 1
 project:
   id: e0aeb69e-8b50-421c-a2b8-f8e66ab62743
-  title: Template NLT Boek
+  title: Transport van de Toekomst
   # description:
   # keywords: []
-  authors: [Freek Pols]
-  license: CC-BY-SA-4.0
+  authors: [Joris de Vries & Martin Mollema]
+  license: CC-BY-NC-SA-4.0
   jupyter:
     lite: true
-  github: https://github.com/NLT-modules/Template # change this to your repo
+  github: https://github.com/NLT-modules/transportvandetoekomst # change this to your repo
   exports:
     - format: pdf
       template: plain_latex_book # myst templates list --tex
